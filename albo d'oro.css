@@ -43,7 +43,7 @@ body {
 
     background-image: url("sfondo.jpg");
     background-repeat:no-repeat;
-    background-size: 1280px 1559px;
+    background-size: 1280px 1939px;
        
 }
 
@@ -51,7 +51,7 @@ main {
 
     
     width: 1245px;
-    height: 1300px;
+    height: 1700px;
 }
 
 .albo {
@@ -59,6 +59,7 @@ main {
     display:flex;
     align-items:center;
     margin:20px;
+    padding:20px;
     background-color:rgb(16, 249, 245);
 }
 
